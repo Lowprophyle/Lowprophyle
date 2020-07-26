@@ -22,7 +22,7 @@ I'm Khaman - a software engineer
 * Transforming enterprise with Azure DevOps
 * Implementing Observability with ELK
 
-#### 🔰 Currently learning
+### 🤔 Currently learning
 
 * Go
 * Static Websites - Hugo, Gatsby
