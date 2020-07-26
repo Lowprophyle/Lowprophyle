@@ -14,3 +14,17 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+I'm Khaman - a software engineer
+
+### 👨🏽‍💻  Currently working on
+
+* Transforming enterprise with Azure DevOps
+* Implementing Observability with ELK
+
+#### 🔰 Currently learning
+
+* Go
+* Static Websites - Hugo, Gatsby
+
+
