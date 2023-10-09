@@ -15,16 +15,30 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-I'm Khaman - a software engineer
+I'm Khaman - a DevOps engineer
 
 ### 👨🏽‍💻  Currently working on
 
-* Transforming enterprise with Azure DevOps
-* Implementing Observability with ELK
+* Migrating Open Source Terraform to TFE
+* Configuration Management :- Ansible Automtation Platform
 
 ### 🤔 Currently learning
 
+* Terraform
+* Event-Driven Ansible
+* Cryptocurrency
+* Blockchain
+* Python
 * Go
+
+
+### 👨🏻‍🏫 Experienced on
+
+* DevOps :- Azure DevOps CI/CD 
+* Configuration Management :- Ansible 
+* Continuous Monitoring :- Elastic Stack, Dynatrace
+* Server Admnistration :- Unix/Linux/Windows Server
 * Static Websites - Hugo, Gatsby
 
-
+### 📫 How to reach me
+* Email to khamanconsolidate@gmail.com
